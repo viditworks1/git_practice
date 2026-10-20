@@ -11,3 +11,4 @@ Try again.
 
 Changed Branch to cool_feature1
 Added a new cool_feature again
+Hey, we fixed the bug.
